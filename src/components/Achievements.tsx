@@ -7,7 +7,7 @@ const achievementsData = [
   "Core Team Member, CSR & Digital Media – Office of Corporate Relations (DoRA), IIT Jodhpur (Present)",
   "Winner – Darwix AI Hackathon: Built a fully functional AI system in under 90 minutes",
   "Winner – Crowdera Hack4RealGood Hackathon",
-  "Top 5 Finish – CLASH-OF-T-AI-TANS, a Computer Vision Hackathon",
+  "Top 5 Finish – CLASH-OF-T-AI-TANS, a computer vision hackathon conducted by Saras AI Institute.",
   "Diploma in Fine Arts",
   "Bachelor of Music – Specialized in Tabla",
   "U-19 Nationals Cricketer – Represented at the Under-19 National Level",
