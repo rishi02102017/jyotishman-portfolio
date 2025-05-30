@@ -19,6 +19,7 @@ const Navbar: React.FC<NavbarProps> = ({ activeSection }) => {
     { name: 'Blogs', href: '#blogs' },
     { name: 'Education', href: '#education' },
     { name: 'Certifications', href: '#certifications' },
+    { name: 'Achievements', href: '#achievements' },
     { name: 'Contact', href: '#contact' },
   ];
 
