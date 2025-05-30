@@ -28,7 +28,7 @@ It includes support for theme switching (Dark, Light, Custom) and is optimized f
 ## Live Demo
 
 Visit the site here:  
-**https://jyotishman.me**
+**https://jyotishman-portfolio.vercel.app/**
 
 ---
 
