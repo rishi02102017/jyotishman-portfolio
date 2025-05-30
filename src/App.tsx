@@ -13,6 +13,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Cursor from './components/Cursor';
 import { useMediaQuery } from 'react-responsive';
+import Achievements from './components/Achievements';
 
 const App: React.FC = () => {
   const [loading, setLoading] = useState(true);
@@ -88,6 +89,9 @@ const App: React.FC = () => {
             </section>
             <section id="certifications">
               <Certifications />
+            </section>
+            <section id="achievements">
+              <Achievements />
             </section>
             <section id="contact">
               <Contact />
