@@ -22,7 +22,7 @@ const projectsData: Project[] = [
   {
     id: "eventshub",
     title: "Eventshub",
-    description: "End-to-end powered event management platform built with Next.js (TypeScript), TailwindCSS, Redux Toolkit, Firebase Auth, Node.js, Express.js, MongoDB Atlas, FastAPI, LangChain, OpenRouter API, Google Custom Search API, and deployed via Vercel and Render with QR code ticketing, livestream embedding, and modular REST + AI microservices architecture.",
+    description: "Comprehensive event management platform built with Next.js 15 (TypeScript), React 19, Tailwind CSS, Radix UI, Firebase (Auth/Firestore/Storage), Twilio WhatsApp API, Groq Cloud AI (Llama3-8b), Nodemailer, React Hook Form, Zod validation, and deployed via Vercel(for demo purpose) featuring drag-and-drop form builder, QR code ticketing, AI chatbot, virtual event streaming, and role-based organizer/attendee dashboards.",
     image: "/images/EventHub-Preview-image.png",
     github: "https://github.com/samyakraka/eventhub",
     live: "https://event-hub-two-phi.vercel.app/",
